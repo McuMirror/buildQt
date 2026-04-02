@@ -5,10 +5,10 @@
 SET QT_VERSION=6.10.2
 
 :: 设置MinGW版本代号
-SET MinGW_VERSION=llvm-mingw21.1.8_64_UCRT_RP
+SET MinGW_VERSION=llvm-mingw22.1.2_64_UCRT_RP
 
 :: 设置编译器和Ninja
-SET PATH=D:\a\buildQt\llvm-mingw-20251216-ucrt-x86_64\bin;D:\a\buildQt\ninja;%PATH%
+SET PATH=D:\a\buildQt\llvm-mingw-20260324-ucrt-x86_64\bin;D:\a\buildQt\ninja;%PATH%
 
 :: 设置Qt文件夹路径
 SET QT_PATH=D:\a\buildQt\Qt
